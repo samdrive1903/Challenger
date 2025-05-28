@@ -1,0 +1,17 @@
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebInfra.Ioc\obj\Debug\net8.0\ChatAppWebInfra.Ioc.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebInfra.Ioc\obj\Debug\net8.0\ChatAppWebInfra.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebInfra.Ioc\obj\Debug\net8.0\ChatAppWebInfra.Ioc.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebInfra.Ioc\obj\Debug\net8.0\ChatAppWebInfra.Ioc.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebInfra.Ioc\obj\Debug\net8.0\ChatAppWebInfra.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebInfra.Ioc\bin\Debug\net8.0\ChatAppWebInfra.Ioc.deps.json
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebInfra.Ioc\bin\Debug\net8.0\ChatAppWebInfra.Ioc.dll
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebInfra.Ioc\bin\Debug\net8.0\ChatAppWebInfra.Ioc.pdb
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebInfra.Ioc\bin\Debug\net8.0\ChatAppWebDomain.dll
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebInfra.Ioc\bin\Debug\net8.0\ChatAppWebRepository.dll
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebInfra.Ioc\bin\Debug\net8.0\ChatAppWebDomain.pdb
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebInfra.Ioc\bin\Debug\net8.0\ChatAppWebRepository.pdb
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebInfra.Ioc\obj\Debug\net8.0\ChatAppW.91B161B6.Up2Date
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebInfra.Ioc\obj\Debug\net8.0\ChatAppWebInfra.Ioc.dll
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebInfra.Ioc\obj\Debug\net8.0\refint\ChatAppWebInfra.Ioc.dll
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebInfra.Ioc\obj\Debug\net8.0\ChatAppWebInfra.Ioc.pdb
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebInfra.Ioc\obj\Debug\net8.0\ref\ChatAppWebInfra.Ioc.dll
