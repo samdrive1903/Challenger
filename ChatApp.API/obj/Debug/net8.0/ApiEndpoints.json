@@ -1,0 +1,107 @@
+[
+  {
+    "ContainingType": "ChatApp.API.Controllers.ChatAppController",
+    "Method": "Add",
+    "RelativePath": "api/ChatApp/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "messageChatViewModel",
+        "Type": "ChatAppWebDomain.Shared.ViewModel.MessageChatViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ChatApp.API.Controllers.ChatAppController",
+    "Method": "Edit",
+    "RelativePath": "api/ChatApp/Edit/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "messageChatViewModel",
+        "Type": "ChatAppWebDomain.Shared.ViewModel.MessageChatViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ChatApp.API.Controllers.ChatAppController",
+    "Method": "GetById",
+    "RelativePath": "api/ChatApp/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ChatApp.API.Controllers.ChatAppController",
+    "Method": "GetList",
+    "RelativePath": "api/ChatApp/GetList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "conditions",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sortOrderColumn",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sortOrderDirection",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ChatApp.API.Controllers.ChatAppController",
+    "Method": "Send",
+    "RelativePath": "api/ChatApp/Send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "messageChatViewModel",
+        "Type": "ChatAppWebDomain.Shared.ViewModel.MessageChatViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
