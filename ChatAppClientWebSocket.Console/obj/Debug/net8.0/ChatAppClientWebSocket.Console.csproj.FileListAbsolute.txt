@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppClientWebSocket.Console\bin\Debug\net8.0\ChatAppClientWebSocket.Console.exe
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppClientWebSocket.Console\bin\Debug\net8.0\ChatAppClientWebSocket.Console.deps.json
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppClientWebSocket.Console\bin\Debug\net8.0\ChatAppClientWebSocket.Console.runtimeconfig.json
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppClientWebSocket.Console\bin\Debug\net8.0\ChatAppClientWebSocket.Console.dll
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppClientWebSocket.Console\bin\Debug\net8.0\ChatAppClientWebSocket.Console.pdb
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppClientWebSocket.Console\obj\Debug\net8.0\ChatAppClientWebSocket.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppClientWebSocket.Console\obj\Debug\net8.0\ChatAppClientWebSocket.Console.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppClientWebSocket.Console\obj\Debug\net8.0\ChatAppClientWebSocket.Console.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppClientWebSocket.Console\obj\Debug\net8.0\ChatAppClientWebSocket.Console.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppClientWebSocket.Console\obj\Debug\net8.0\ChatAppClientWebSocket.Console.dll
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppClientWebSocket.Console\obj\Debug\net8.0\refint\ChatAppClientWebSocket.Console.dll
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppClientWebSocket.Console\obj\Debug\net8.0\ChatAppClientWebSocket.Console.pdb
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppClientWebSocket.Console\obj\Debug\net8.0\ChatAppClientWebSocket.Console.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppClientWebSocket.Console\obj\Debug\net8.0\ref\ChatAppClientWebSocket.Console.dll
