@@ -1,0 +1,17 @@
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebRepository\obj\Debug\net8.0\ChatAppWebRepository.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebRepository\obj\Debug\net8.0\ChatAppWebRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebRepository\obj\Debug\net8.0\ChatAppWebRepository.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebRepository\obj\Debug\net8.0\ChatAppWebRepository.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebRepository\obj\Debug\net8.0\ChatAppWebRepository.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebRepository\bin\Debug\net8.0\ChatAppWebRepository.deps.json
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebRepository\bin\Debug\net8.0\ChatAppWebRepository.runtimeconfig.json
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebRepository\bin\Debug\net8.0\ChatAppWebRepository.dll
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebRepository\bin\Debug\net8.0\ChatAppWebRepository.pdb
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebRepository\bin\Debug\net8.0\ChatAppWebDomain.dll
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebRepository\bin\Debug\net8.0\ChatAppWebDomain.pdb
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebRepository\obj\Debug\net8.0\ChatAppW.2450AE7D.Up2Date
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebRepository\obj\Debug\net8.0\ChatAppWebRepository.dll
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebRepository\obj\Debug\net8.0\refint\ChatAppWebRepository.dll
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebRepository\obj\Debug\net8.0\ChatAppWebRepository.pdb
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebRepository\obj\Debug\net8.0\ChatAppWebRepository.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebRepository\obj\Debug\net8.0\ref\ChatAppWebRepository.dll
