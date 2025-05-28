@@ -100,8 +100,9 @@ namespace ChatAppServerWebSocket.Console
 
             message = Encoding.ASCII.GetString(rcvBuffer, 0, bytesRcvd);
 
+
             //var retorno = AddMessageByHttp(message);
-            var retorno = AddMessage(message);
+            //var retorno = AddMessage(message);
 
             OnMessageReceived(this, new OnMessageReceivedHandler(message, client));
         }
