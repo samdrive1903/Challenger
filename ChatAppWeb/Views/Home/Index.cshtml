@@ -1,0 +1,32 @@
+﻿@model ChatAppWebDomain.Shared.ViewModel.MessageChatViewModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Chat App<a href="https://learn.microsoft.com/aspnet/core"></a></p>
+</div>
+
+<form method="post">
+    <div class="container">
+        <div class="mb-md-1">
+            @Html.LabelFor(m => m.Source, new { @class = "form-label" })
+            @Html.TextBoxFor(m => m.Source, new { @class = "form-control" })
+        </div>
+        <div class="mb-md-1">
+            @Html.LabelFor(m => m.Destination, new { @class = "form-label" })
+            @Html.TextBoxFor(m => m.Destination, new { @class = "form-control" })
+        </div>
+
+        <div class="mb-md-1">
+@*             @Html.LabelFor(m => m.Body, new { @class = "form-label" }) *@
+            @Html.TextAreaFor(m => m.Body, 4, 63, new { @class = "form-control", @title="Mensagem" })
+        </div>
+
+
+        <div class="mb-md-1">
+            <button type="submit" class="btn btn-primary">Enviar</button>
+        </div>
+    </div>
+</form>
