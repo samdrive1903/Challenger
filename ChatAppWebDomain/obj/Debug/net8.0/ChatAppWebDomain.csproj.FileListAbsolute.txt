@@ -1,0 +1,12 @@
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebDomain\obj\Debug\net8.0\ChatAppWebDomain.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebDomain\obj\Debug\net8.0\ChatAppWebDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebDomain\obj\Debug\net8.0\ChatAppWebDomain.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebDomain\obj\Debug\net8.0\ChatAppWebDomain.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebDomain\obj\Debug\net8.0\ChatAppWebDomain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebDomain\bin\Debug\net8.0\ChatAppWebDomain.deps.json
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebDomain\bin\Debug\net8.0\ChatAppWebDomain.dll
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebDomain\bin\Debug\net8.0\ChatAppWebDomain.pdb
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebDomain\obj\Debug\net8.0\ChatAppWebDomain.dll
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebDomain\obj\Debug\net8.0\refint\ChatAppWebDomain.dll
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebDomain\obj\Debug\net8.0\ChatAppWebDomain.pdb
+C:\Users\DELL\OneDrive\projetos\LuzaGroup\ChatAppWeb\ChatAppWebDomain\obj\Debug\net8.0\ref\ChatAppWebDomain.dll
